@@ -26,3 +26,12 @@ What you find in this repository
 CodeBook.md: information about raw and tidy data set
 README.md: this file
 run_analysis.R: R script to transform raw data set in a tidy one
+
+How to
+
+clone this repository
+download compressed raw data
+unzip raw data and copy the directory 'UCI HAR Dataset' 
+open a R studio and set the working directory to the repository root
+run run_analysis.R script
+In the repository root directory you find the file 'sensordataavgsubject.txt'
